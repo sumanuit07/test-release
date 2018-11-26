@@ -1,0 +1,4 @@
+spring:
+  application:
+    name: sumanu
+  port: 8004
