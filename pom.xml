@@ -5,8 +5,8 @@
 	<version>y</version>
 	<packaging>jar</packaging>
 	<scm>
-		<connection>scm:git:git://github.com/sumanuit07/test-release.git</connection>
-		<developerConnection>scm:git:git://github.com/sumanuit07/test-release.git</developerConnection>
+		<connection>scm:git:https://github.com/sumanuit07/test-release.git</connection>
+		<developerConnection>scm:git:https://github.com/sumanuit07/test-release.git</developerConnection>
 	  <tag>y</tag>
   </scm>
 
