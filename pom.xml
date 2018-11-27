@@ -9,11 +9,10 @@
 		<developerConnection>scm:git:https://github.com/sumanuit07/test-release.git</developerConnection>
 		<tag>HEAD</tag>
 	</scm>
-
 	<distributionManagement>
 		<repository>
 			<id>nexus-releases</id>
-			<url>http://localhost:8081/nexus/content/repositories/releases</url>
+			<url>http://localhost:8081/repository/maven-releases</url>
 		</repository>
 	</distributionManagement>
 	
